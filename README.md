@@ -16,7 +16,23 @@ _Oliver_ is looking for an accommodation. To make the reservation, the dApp requ
 
 In this tutorial, it describes an interactive demo to demonstrate the functionality and usage of NeoID (Neo Identity) as well as Neo Oracle and NeoFS (Neo File Storage) with an example use case.
 
+In this tutorial, the structure is shown as below:
+
+- `Environment setting`
+- `Smart contract writing`
+  - `Basic smart contract knowledge`
+  - `Oracle integration`
+- `Smart contract compiling`
+- `Neo dApp and smart contract interaction`
+- `NeoID integration`
+- `NeoFS integration`
+- `Demo operation`
+
+According to this structure, we will seperate the tutorial into 8 courses. For each course, it will last around 60 minutes.
+
 ## Tasks based on tutorial
+
+The tasks are designed according to the structure of tutorial. 8 courses will need 8 series of tasks
 
 ## NFT series based on tasks
 
