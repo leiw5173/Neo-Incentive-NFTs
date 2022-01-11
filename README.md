@@ -7,7 +7,7 @@ This project shows the whole structure of Neo NFT incentive system. We utilize a
 - NFT series based on Tasks
 - Claim method
 - Incentive system
-- Feedback and improvement ways
+- How to contribute
 
 ## Tutorial example
 
@@ -90,4 +90,77 @@ The people with different NFTs can get some privileges:
 - Exclusive access to channels on Discord
 - Exclusive new perks in the future
 
-## Feedback and improvement ways
+## How to contribute
+
+The updates of this system are made through these steps:
+
+### Submit an issue
+
+- Create an [new issue](https://github.com/leiw5173/Neo-Incentive-NFTs/issues)
+- Comment on the issue (if you'd like to be assigned to it) - taht way [our team can assign the issue to you](https://github.blog/2019-06-25-assign-issues-to-issue-commenters/)
+
+### Fork the repository (repo)
+
+- If you're not sure, here's how to [fork the repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+
+### Set up your local environment (optional)
+
+If you're ready to contribute and create your PR, it will help to set up a local environment so you can see your changes.
+
+1. [Set up your development environment](https://www.gatsbyjs.com/docs/tutorial/part-0/)
+2. Clone your fork
+
+If this is your first time forking our repo, this is all you need to do for this step:
+
+```bash
+git clone git@github.com:[your_github_handle]/Neo-incentive-NFTs.git && cd Neo-incentive-NFTs
+```
+
+If you've already forked the repo, you'll want to ensure your fork is configured and that it's up to date. This will save you the headache of potential merge conflicts.
+To [configure your fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-for-a-fork):
+
+```bash
+git remote add upstream https://github.com/leiw5173/Neo-Incentive-NFTs.git
+```
+
+To [sync your fork with the latest changes](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork):
+
+```bash
+git checkout dev
+git fetch upstream
+git merge upstream/dev
+```
+
+### Make awesome changes!
+
+1. Create new branch for your changes
+
+   ```bash
+   git checkout -b new_branch_name
+   ```
+
+2. Start developing!
+
+   - Open this directory in your favorite text editor / IDE
+
+3. Commit and prepare for pull request (PR). In your PR commit message, reference the issue it resolves (see [how to link a commit message to an issue using a keyword](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword)).
+
+   ```bash
+   git commit -m "brief description of changes [Fixes #1234]"
+   ```
+
+4. Push to your GitHub account
+
+### Wait for review
+
+- The repo team reviews every PR
+- Acceptable PRs will be approved & merged into the `dev` branch
+
+### Release
+
+- The repo team will periodically merge `dev` into `master` (typically multiple times per week)
+- You can [view the history of releases](https://github.com/leiw5173/Neo-Incentive-NFTs/releases), which include PR highlights
+
+### Join our Discord server
+
+You can discuss this NFT incentive system in the `nft-incentive-system` group in the [![Discord](https://img.shields.io/discord/382937847893590016?label=Neo%20Smart%20Economy)](https://discord.gg/xqAXAECWsT).
