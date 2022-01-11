@@ -73,7 +73,7 @@ The claim method is shown as below.
 
 - If you have committed any changes that were merged into this repo, you have a `Contributor NFT` waiting!
 - If you have completed certain tasks and submitted the related proofs, you have one of `Learners NFT`series waiting!
-- You can claim your NFTs in the ![https://img.shields.io/discord/382937847893590016?label=Neo%20Smart%20Economy](https://discord.gg/xqAXAECWsT)
+- You can claim your NFTs in the [![Discord](https://img.shields.io/discord/382937847893590016?label=Neo%20Smart%20Economy)](https://discord.gg/xqAXAECWsT)
 - A member of our team will verify the request and DM you with a personalized link to claim your own fresh minted NFTs.
 - To help with verification we request all the applicants connect their GitHub account with their Discord account (Discord > settings > Connections > GitHub).
 - If you haven't learned yet and would like to earn a `Learners NFT` to show your enthusiasm to the Neo N3 space, head over to [Developer Portal](https://kind-meadow-0e3193d1e.azurestaticapps.net/) to start learning!
