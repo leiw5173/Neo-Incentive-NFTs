@@ -6,6 +6,7 @@ This project shows the whole structure of Neo NFT incentive system. We utilize a
 - Tasks based on tutorial
 - NFT series based on Tasks
 - Claim method
+- Incentive system
 - Feedback and improvement ways
 
 ## Tutorial example
@@ -78,5 +79,15 @@ The claim method is shown as below.
 - To help with verification we request all the applicants connect their GitHub account with their Discord account (Discord > settings > Connections > GitHub).
 - If you haven't learned yet and would like to earn a `Learners NFT` to show your enthusiasm to the Neo N3 space, head over to [Developer Portal](https://kind-meadow-0e3193d1e.azurestaticapps.net/) to start learning!
 - If you haven't contribute yet and would lke to earn a `Contributor NFT` to show your loyalty to the Neo N3 space, head over to [Issue](https://github.com/leiw5173/Neo-Incentive-NFTs/issues) tab to get start.
+
+## Incentive system
+
+The incentive is the key to motivating the developers and contributors to build the whole page of this developer ecosystem. And we need two different incentive systems to award developers and contributors.
+
+The people with different NFTs can get some privileges:
+
+- Exclusive role and badge on Discord
+- Exclusive access to channels on Discord
+- Exclusive new perks in the future
 
 ## Feedback and improvement ways
