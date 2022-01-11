@@ -18,21 +18,41 @@ In this tutorial, it describes an interactive demo to demonstrate the functional
 
 In this tutorial, the structure is shown as below:
 
-- `Environment setting`
-- `Smart contract writing`
-  - `Basic smart contract knowledge`
-  - `Oracle integration`
-- `Smart contract compiling`
-- `Neo dApp and smart contract interaction`
-- `NeoID integration`
-- `NeoFS integration`
-- `Demo operation`
+- Environment setting
+- Smart contract writing
+  - Basic smart contract knowledge
+  - Oracle integration
+- Smart contract compiling, deployment, Invokation, and testing
+- Neo dApp and smart contract interaction
+- NeoID integration
+- NeoFS integration
+- Demo operation
 
 According to this structure, we will seperate the tutorial into 8 courses. For each course, it will last around 60 minutes.
 
 ## Tasks based on tutorial
 
-The tasks are designed according to the structure of tutorial. 8 courses will need 8 series of tasks
+The tasks are designed according to the structure of tutorial. 7 serieses of tasks will be set to test the first 7 learning processes. The last one demonstrate the whole procedure of this dapp. The serieses of tasks are shown as below:
+
+- Set environment to fetch the data of Neo testnet
+- Deploy a smart contract on N3 testnet
+- Update the smart contract with Oracle integration
+- Invoke and debug a smart contract with [NeoExpress and NeoTrace](https://github.com/neo-project/neo-express)
+- Develop a frontend page to interact with smart contract
+- Update the smart contract and frontend page to integrate with NeoID
+- Update the smart contract and frontend page to integrate with NeoFS
+
+After the tasks finished by learners, we need methods to check their degrees of different tasks' completion. The method can be set as below:
+
+- Submit the screenshot of the fetched data
+- Submit the contract hash
+- Submit the contract hash after update
+- Submit the NeoExpress file and NeoTrace file
+- Submit the website address
+- Submit the contract hash and frontend page after update
+- Submit the contract hash and frontend page after update
+
+In this segment, we set up the tasks and checking point and make sure the learners get familiar with the whole development process of Neo N3.
 
 ## NFT series based on tasks
 
