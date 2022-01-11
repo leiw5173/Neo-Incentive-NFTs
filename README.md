@@ -56,6 +56,17 @@ In this segment, we set up the tasks and checking point and make sure the learne
 
 ## NFT series based on tasks
 
+There are two kinds of Incentive NFTs in this system. One is for contributors of this repo. Another is for learners who complete the tasks.
+
+- `Contributors NFT`: We will deploy a Non-tradable NFT smart contract to reward the contributors who make their efforts on this system.
+- `Learners NFT`: We will deploy four Non-tradable NFT smart contract to reward learners who complete the different levels of tasks.
+  - `Junior Learner`: The learners who are able to deploy smart contract on testnet can get this NFT
+  - `Middle Learner`: The learners who are able to create website and interact with smart contract can get this NFT.
+  - `Senior Learner`: The learners who are able to integrate NeoID, NeoFS, and Oracle into the smart contract can get this NFT.
+  - `Leader`: The developers who run their own projects on Neo N3 mainnet can get this NFT.
+
+The whole NFT serieses are shown above. All the NFTs are distributed on the Neo N3 mainnet and will be endowed certain incentive according to the NFT series.
+
 ## Claim method
 
 ## Feedback and improvement ways
