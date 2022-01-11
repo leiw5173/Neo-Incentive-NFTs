@@ -58,7 +58,7 @@ In this segment, we set up the tasks and checking point and make sure the learne
 
 There are two kinds of Incentive NFTs in this system. One is for contributors of this repo. Another is for learners who complete the tasks.
 
-- `Contributors NFT`: We will deploy a Non-tradable NFT smart contract to reward the contributors who make their efforts on this system.
+- `Contributor NFT`: We will deploy a Non-tradable NFT smart contract to reward the contributors who make their efforts on this system.
 - `Learners NFT`: We will deploy four Non-tradable NFT smart contract to reward learners who complete the different levels of tasks.
   - `Junior Learner`: The learners who are able to deploy smart contract on testnet can get this NFT
   - `Middle Learner`: The learners who are able to create website and interact with smart contract can get this NFT.
@@ -68,5 +68,15 @@ There are two kinds of Incentive NFTs in this system. One is for contributors of
 The whole NFT serieses are shown above. All the NFTs are distributed on the Neo N3 mainnet and will be endowed certain incentive according to the NFT series.
 
 ## Claim method
+
+The claim method is shown as below.
+
+- If you have committed any changes that were merged into this repo, you have a `Contributor NFT` waiting!
+- If you have completed certain tasks and submitted the related proofs, you have one of `Learners NFT`series waiting!
+- You can claim your NFTs in the ![https://img.shields.io/discord/382937847893590016?label=Neo%20Smart%20Economy](https://discord.gg/xqAXAECWsT)
+- A member of our team will verify the request and DM you with a personalized link to claim your own fresh minted NFTs.
+- To help with verification we request all the applicants connect their GitHub account with their Discord account (Discord > settings > Connections > GitHub).
+- If you haven't learned yet and would like to earn a `Learners NFT` to show your enthusiasm to the Neo N3 space, head over to [Developer Portal](https://kind-meadow-0e3193d1e.azurestaticapps.net/) to start learning!
+- If you haven't contribute yet and would lke to earn a `Contributor NFT` to show your loyalty to the Neo N3 space, head over to [Issue](https://github.com/leiw5173/Neo-Incentive-NFTs/issues) tab to get start.
 
 ## Feedback and improvement ways
